@@ -1,0 +1,16 @@
+C:\Users\Winsen\Documents\Repositories\Bouncing-DVD\Bouncing DVD\Bouncing DVD\bin\Debug\net8.0-windows\Bouncing DVD.exe
+C:\Users\Winsen\Documents\Repositories\Bouncing-DVD\Bouncing DVD\Bouncing DVD\bin\Debug\net8.0-windows\Bouncing DVD.deps.json
+C:\Users\Winsen\Documents\Repositories\Bouncing-DVD\Bouncing DVD\Bouncing DVD\bin\Debug\net8.0-windows\Bouncing DVD.runtimeconfig.json
+C:\Users\Winsen\Documents\Repositories\Bouncing-DVD\Bouncing DVD\Bouncing DVD\bin\Debug\net8.0-windows\Bouncing DVD.dll
+C:\Users\Winsen\Documents\Repositories\Bouncing-DVD\Bouncing DVD\Bouncing DVD\bin\Debug\net8.0-windows\Bouncing DVD.pdb
+C:\Users\Winsen\Documents\Repositories\Bouncing-DVD\Bouncing DVD\Bouncing DVD\obj\Debug\net8.0-windows\Bouncing_DVD.Form1.resources
+C:\Users\Winsen\Documents\Repositories\Bouncing-DVD\Bouncing DVD\Bouncing DVD\obj\Debug\net8.0-windows\Bouncing DVD.csproj.GenerateResource.cache
+C:\Users\Winsen\Documents\Repositories\Bouncing-DVD\Bouncing DVD\Bouncing DVD\obj\Debug\net8.0-windows\Bouncing DVD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Winsen\Documents\Repositories\Bouncing-DVD\Bouncing DVD\Bouncing DVD\obj\Debug\net8.0-windows\Bouncing DVD.AssemblyInfoInputs.cache
+C:\Users\Winsen\Documents\Repositories\Bouncing-DVD\Bouncing DVD\Bouncing DVD\obj\Debug\net8.0-windows\Bouncing DVD.AssemblyInfo.cs
+C:\Users\Winsen\Documents\Repositories\Bouncing-DVD\Bouncing DVD\Bouncing DVD\obj\Debug\net8.0-windows\Bouncing DVD.csproj.CoreCompileInputs.cache
+C:\Users\Winsen\Documents\Repositories\Bouncing-DVD\Bouncing DVD\Bouncing DVD\obj\Debug\net8.0-windows\Bouncing DVD.dll
+C:\Users\Winsen\Documents\Repositories\Bouncing-DVD\Bouncing DVD\Bouncing DVD\obj\Debug\net8.0-windows\refint\Bouncing DVD.dll
+C:\Users\Winsen\Documents\Repositories\Bouncing-DVD\Bouncing DVD\Bouncing DVD\obj\Debug\net8.0-windows\Bouncing DVD.pdb
+C:\Users\Winsen\Documents\Repositories\Bouncing-DVD\Bouncing DVD\Bouncing DVD\obj\Debug\net8.0-windows\Bouncing DVD.genruntimeconfig.cache
+C:\Users\Winsen\Documents\Repositories\Bouncing-DVD\Bouncing DVD\Bouncing DVD\obj\Debug\net8.0-windows\ref\Bouncing DVD.dll
